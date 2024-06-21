@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ProjectPath&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "Product&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../Desktop/RPA.Test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ProjectPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../Desktop/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ProjectPath&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "Product&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
